@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>NKulagin.SoftDev.SoftDevConsole</AssemblyName>
+    <RootNamespace>NKulagin.SoftDev.SoftDevConsole</RootNamespace>
   </PropertyGroup>
 
 </Project>

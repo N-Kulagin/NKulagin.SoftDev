@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SoftDevConsole
+namespace NKulagin.SoftDev.SoftDevConsole
 {
     class Program
     {

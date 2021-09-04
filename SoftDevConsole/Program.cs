@@ -1,4 +1,6 @@
-﻿using System;
+﻿using NKulagin.SoftDev.Domain;
+using NKulagin.SoftDev.Persistence;
+using System;
 
 namespace NKulagin.SoftDev.SoftDevConsole
 {

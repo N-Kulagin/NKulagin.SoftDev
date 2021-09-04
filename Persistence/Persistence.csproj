@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>NKulagin.SoftDev.Persistence</AssemblyName>
+    <RootNamespace>NKulagin.SoftDev.Persistence</RootNamespace>
+  </PropertyGroup>
+
+</Project>

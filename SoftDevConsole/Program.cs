@@ -15,7 +15,6 @@ namespace NKulagin.SoftDev.SoftDevConsole
                 new TimeRecord(DateTime.Now.AddDays(-1), "test", 7, "test message"),
             });
             Console.WriteLine(manager.TotalPay);
-            // test 1234
         }
     }
 }
